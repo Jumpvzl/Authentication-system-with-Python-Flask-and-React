@@ -1,7 +1,7 @@
 const getState = ({ getStore, getActions, setStore }) => {
 	return {
 		store: {
-			message: null,
+			message: "Esto es la practica de JWT",
 			demo: [
 				{
 					title: "FIRST",
