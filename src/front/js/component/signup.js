@@ -63,7 +63,7 @@ export const Signup = () => {
                         />
                     </div>
                     <div className="col-12">
-                        <button type="submit" className="btn btn-light">Iniciar sesión</button>
+                        <button type="submit" className="btn btn-light">Registrar</button>
                     </div>
                 </form>
             </div>
